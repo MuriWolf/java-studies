@@ -1,4 +1,4 @@
-package estudos.Qstring.test;
+package estudos.string.test;
 
 public class StringPerformaceTest {
     public static void main(String[] args) {
