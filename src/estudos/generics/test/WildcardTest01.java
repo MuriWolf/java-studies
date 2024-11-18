@@ -1,4 +1,4 @@
-package estudos.colecoes.generics.test;
+package estudos.generics.test;
 
 import java.util.ArrayList;
 import java.util.List;
