@@ -18,7 +18,7 @@ public class ListaArrayConversaoTest01 {
         System.out.println(Arrays.toString(numerosArray));
         System.out.println(numeros);
 
-        // Já o contrario, ou seja, de array para lista, neste caso, afetar o list afeta o array
+        // Já o contrario, ou seja, de array para lista, neste caso, afetar o list afeta o array. Isto ocorre pois o asList cria um wrapper sob o array
         List<Integer> numerosFromArray = Arrays.asList(numerosArray);
         numerosFromArray.set(0, 98);
 

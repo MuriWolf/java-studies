@@ -1,3 +1,5 @@
+package estudos.colecoes.test;
+
 import java.util.ArrayList;
 import java.util.List;
 

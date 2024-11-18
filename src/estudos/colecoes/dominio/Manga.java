@@ -1,6 +1,8 @@
 package estudos.colecoes.dominio;
 
+import java.util.Comparator;
 import java.util.Objects;
+
 
 public class Manga implements Comparable<Manga> {
     private Long id;
